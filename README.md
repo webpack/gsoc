@@ -12,18 +12,20 @@ Welcome to webpack's **Google Summer of Code (GSoC) onboarding repository**! Thi
 
 ## 🚀 Quick Start
 
-### For GSoC Applicants
+### GSoC Guides
 1. **[Make Your First Contribution](#making-your-first-contribution)** - Required before applying
 2. **[Understand webpack Architecture](docs/webpack-architecture.md)** - Learn how webpack works
 3. **[Explore Project Ideas](docs/project-ideas.md)** - Find what interests you
 4. **[Write Your Proposal](docs/proposal-guidelines.md)** - Craft a winning application
 
-### For Contributors
+### webpack Guides
 1. **[Development Setup](docs/development-setup.md)** - Get your environment ready
 2. **[Contribution Guidelines](https://github.com/webpack/webpack/blob/main/CONTRIBUTING.md)** - webpack's official guide
-3. **[Technical Guides](docs/technical-guides/)** - Deep dive into webpack internals
+3. **Technical Guides** - Deep dive into webpack internals:
+   - [Plugin System](docs/technical-guides/plugin-system.md)
+   - [Testing Guide](docs/technical-guides/testing.md)
 
-## 🎋 Making Your First Contribution
+## Making Your First Contribution
 
 > **Required for GSoC**: You must make at least one merged contribution before applying.
 
@@ -82,7 +84,7 @@ We have **8 focused project areas** across:
 
 ## 📞 Need Help?
 
-- **GSoC Questions**: Create an [issue](https://github.com/webpack/gsoc/issues) with the `question` label
+- **GSoC Questions**: Ask in [webpack discussions](https://github.com/webpack/webpack/discussions)
 - **Technical Help**: Join our [Discord server](https://discord.gg/PebpZRPfJp)
 - **Mentorship**: Reach out to the [webpack team](https://github.com/webpack/webpack?tab=readme-ov-file#current-project-members)
 
