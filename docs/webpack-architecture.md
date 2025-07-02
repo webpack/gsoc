@@ -157,7 +157,7 @@ graph TD
 
     G --> K[Execution: plugin1 → plugin2 → plugin3]
     H --> L[Execution: await plugin1 → await plugin2]
-    I --> M[Execution: <code>Promise.all([plugin1, plugin2])</code>]
+    I --> M["Execution: Promise.all([plugin1, plugin2])"]
     J --> N[Execution: data → plugin1 → plugin2 → result]
 ```
 
@@ -258,12 +258,12 @@ graph TD
     A --> D[Module Resolution]
 
     B --> E[Prevents duplicate loading]
-    C --> F[Dynamic <code>import()</code> handling]
+    C --> F["Dynamic import() handling"]
     D --> G[Module ID to function mapping]
 
-    F --> H[<code>fetch()</code> for chunks]
+    F --> H["fetch() for chunks"]
     F --> I[JSONP for legacy support]
-    F --> J[<code>import()</code> for modern browsers]
+    F --> J["import() for modern browsers"]
 ```
 
 The runtime size depends on features used - basic bundling has minimal runtime overhead, while features like code splitting add more runtime code.
