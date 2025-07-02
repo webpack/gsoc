@@ -42,6 +42,8 @@ Review our [project ideas list](project-ideas.md) for inspiration, but don't lim
 
 ## Proposal Structure
 
+> **💡 Tip**: Use our [webpack GSoC Proposal Template](../assets/templates/webpack%20GSoC%20Proposal%20Template.pdf) as a starting point for your proposal structure.
+
 ### 1. Title and Problem (1-2 paragraphs)
 
 Start with a clear title and explain the specific problem you're solving:
@@ -124,6 +126,7 @@ Before submitting:
 
 ## Resources
 
+- [webpack GSoC Proposal Template](../assets/templates/webpack%20GSoC%20Proposal%20Template.pdf) - Official template to guide your proposal structure
 - [Past successful proposals](https://medium.com/webpack/gsoc-2020-with-webpack-6ad0a30bcaac)
 - [Google's student guide](https://google.github.io/gsocguides/student/)
 - [webpack Discord community](https://discord.gg/PebpZRPfJp)

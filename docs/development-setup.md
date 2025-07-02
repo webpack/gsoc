@@ -67,23 +67,17 @@ Here's the streamlined workflow using GitHub CLI:
 
 **1. Stay current with upstream changes:**
 ```bash
-gh repo sync owner/repo  # Sync your fork with upstream
-# Or manually:
-git fetch upstream
-git checkout main
-git merge upstream/main
+gh repo sync webpack/{repo} # Sync your fork with upstream
 ```
 
 **2. Create a branch for your work:**
 ```bash
-git checkout -b fix/my-improvement
+git switch -c fix/my-improvement
 ```
 
 **3. Make your changes and test them:**
 ```bash
-# Edit files...
-npm run build       # Rebuild webpack
-npm test           # Run relevant tests
+npm test # Run relevant tests
 ```
 
 **4. Commit, push, and create a pull request:**
@@ -93,7 +87,7 @@ git commit -m "fix: improve error message clarity"
 git push origin fix/my-improvement
 
 # Create pull request directly from the command line
-gh pr create --title "Fix: improve error message clarity" --body "This PR improves error message clarity by..."
+gh pr create --title "fix: improve error message clarity" --body "This PR improves error message clarity by..."
 ```
 
 The GitHub CLI will open your browser to complete the pull request if needed, or you can add more details using command flags.
@@ -107,11 +101,8 @@ webpack has different types of tests for different purposes:
 npm test
 
 # Run specific test categories
-npm run test:unit           # Fast unit tests
-npm run test:integration    # Integration tests with real webpack configs
-
-# Run tests in watch mode while developing
-npm run test:watch
+npm run test:unit        # Fast unit tests
+npm run test:integration # Integration tests with real webpack configs
 ```
 
 When working on a specific feature, run only the tests related to your changes to get faster feedback.
@@ -167,21 +158,16 @@ npx webpack-bundle-analyzer stats.json
 
 This helps when working on optimization features or debugging bundle issues.
 
-
-
 ## Code Quality Tools
 
 webpack uses several tools to maintain code quality:
 
 ```bash
 # Check code formatting
-npm run code-lint
+npm run lint:code
 
 # Fix formatting issues automatically
-npm run code-lint:fix
-
-# Run type checking
-npm run type-check
+npm run fix
 ```
 
 These checks run automatically in CI, so run them before submitting pull requests to catch issues early.
