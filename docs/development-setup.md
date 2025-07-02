@@ -41,9 +41,6 @@ cd webpack
 
 # Install dependencies
 npm install
-
-# Build webpack
-npm run build
 ```
 
 That's it! GitHub CLI automatically:
