@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://webpack.js.org">
-    <img src="https://webpack.js.org/assets/icon-square-big.svg" alt="webpack" style="max-width: 100px; width: 100%;">
+    <img src="https://webpack.js.org/assets/icon-square-big.svg" alt="webpack" width="100">
   </a>
 </div>
 
