@@ -69,6 +69,7 @@ We have **8 focused project areas** across:
 ### Essential Reading
 - [webpack Documentation](https://webpack.js.org/)
 - [webpack Concepts](https://webpack.js.org/concepts/)
+- [crafting a good gsoc proposal](https://medium.com/@evenstensberg/writing-a-solid-google-summer-of-code-proposal-a200fc6e785b)
 
 ### Technical Guides
 - [webpack Plugin Architecture](docs/technical-guides/plugin-system.md)
