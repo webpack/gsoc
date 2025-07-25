@@ -45,7 +45,7 @@ Look for `good first issue` or `help wanted` labels to get started.
 - ✅ At least one merged contribution to webpack
 - ✅ Clear project proposal with timeline
 - ✅ Active community engagement
-- ✅ Understanding of webpack architecture
+- ✅ Understanding of webpack architecture (or respective repositories related to any project idea)
 
 📚 **Detailed guide**: [GSoC Proposal Guidelines](docs/proposal-guidelines.md)
 
@@ -77,10 +77,25 @@ We have **8 focused project areas** across:
 
 ## 🏆 Past GSoC Success
 
+- **2018**: CLI Improvements & TypeScript Migration ([Vincent Chan](https://summerofcode.withgoogle.com/archive/2018/projects/5363095866179584))
+
+- **2018**: webpack-cli: Infrastructure and Automation Work ([Dhruvdutt Jadhav](https://summerofcode.withgoogle.com/archive/2018/projects/5998434809020416))
+
+- **2018**: Webpack dependencies with WebAssembly ([Jevan Chan](https://summerofcode.withgoogle.com/archive/2018/projects/5998434809020416))
+
+- **2019**: Output Reporter ([Devid Farinelli](https://summerofcode.withgoogle.com/archive/2019/projects/4597762119696384))
+
+- **2019**: Dev Server Refactor ([Kirill Nagaitsev](https://summerofcode.withgoogle.com/archive/2019/projects/4895317185527808))
+
 - **2020**: CLI Improvements & TypeScript Migration ([Nitin Kumar](https://medium.com/webpack/gsoc-2020-with-webpack-6ad0a30bcaac))
-- Strong technical understanding through prior contributions
-- Regular communication with mentors
-- Incremental delivery approach
+
+- **2024**: Refactor tests on webpack-dev-server ([Mahdi Khashan](https://summerofcode.withgoogle.com/archive/2024/projects/vvPVCqzQc))
+
+- **2024**: Native css support ([zhaochenliu](https://summerofcode.withgoogle.com/archive/2024/projects/26o3C4CV))
+
+- **2024**: Webpack-cli: create-webpack-app package development ([Uzair Khan](https://summerofcode.withgoogle.com/archive/2024/projects/A71RRLYm))
+
+
 
 ## 📞 Need Help?
 
