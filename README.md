@@ -1,4 +1,4 @@
-# webpack GSoC Onboarding Guide 🎓
+<h1 align="center">webpack GSoC Onboarding Guide 🎓</h1>
 
 <div align="center">
   <a href="https://webpack.js.org">
