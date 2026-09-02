@@ -96,7 +96,7 @@ We have **8 focused project areas** across:
 
 - **2024**: Webpack-cli: create-webpack-app package development ([Uzair Khan](https://summerofcode.withgoogle.com/archive/2024/projects/A71RRLYm))
 
-- **2025**: Enhancing Webpack with ESM Module Output ([Leo Hasegawa]([https://google.com](https://summerofcode.withgoogle.com/programs/2025/projects/HJMdVfAT)))
+- **2025**: Enhancing Webpack with ESM Module Output ([Leo Hasegawa](https://summerofcode.withgoogle.com/programs/2025/projects/HJMdVfAT))
 
 - **2026**: Automated Webpack Documentation Pipeline ([Mohamed Shams El-Deen](https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b))
 
