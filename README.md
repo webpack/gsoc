@@ -1,8 +1,3 @@
-> [!IMPORTANT]
-> webpack's **Google Summer of Code ideas/projects** are now publicly available [here](https://docs.google.com/document/d/1Mr_IPVdbupGwmGtcvLlVqFEL8wYN_rlfHUghJ2EPBVE/edit?usp=sharing).
-> 
-> **PLEASE:** Read them and use them for submitting for webpack GSoC 2026, ideas outside of those won't be accepeted. Q&A/AMA on webpack's Discord https://discord.gg/webpack
-
 <h1 align="center">webpack GSoC Onboarding Guide 🎓</h1>
 
 <div align="center">
@@ -102,6 +97,12 @@ We have **8 focused project areas** across:
 - **2024**: Webpack-cli: create-webpack-app package development ([Uzair Khan](https://summerofcode.withgoogle.com/archive/2024/projects/A71RRLYm))
 
 - **2025**: Enhancing Webpack with ESM Module Output ([Leo Hasegawa]([https://google.com](https://summerofcode.withgoogle.com/programs/2025/projects/HJMdVfAT)))
+
+- **2026**: Automated Webpack Documentation Pipeline ([Mohamed Shams El-Deen](https://dev.to/moshams272/gsoc-2026-final-report-automated-webpack-documentation-pipeline-472b))
+
+- **2026**: New Documentation Website - Completing the TypeDoc Pipeline for webpack's API ([Nikhil Kumar Rajak](https://dev.to/ryzrr/making-webpacks-docs-update-themselves-gsoc-2026-wrapped-2jmn))
+
+- **2026**:  New Documentation Website ([Tushar Thakur](https://gist.github.com/TusharThakur04/4f6a228a7ce5abeb2e1d5afcd98cff7b))
 
 ## 📞 Need Help?
 
